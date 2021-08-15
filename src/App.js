@@ -30,7 +30,7 @@ return (
 
 )	
 }
-
+ 
 
 const Total = (props) => {
 	return (
